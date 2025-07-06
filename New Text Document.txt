@@ -1,0 +1,2 @@
+Problem Statement:
+How can we build a machine learning model in Python that accurately predicts a song's popularity—using features like audio characteristics (e.g. energy, loudness, danceability), metadata (e.g. genre, artist), and historical performance—to classify or score its potential success?
